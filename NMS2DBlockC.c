@@ -2,7 +2,8 @@
 #include <stdio.h>
 
 /* insert comments
-/*
+/* feature_x branch
+ *another change before commit
  * xtimesy.c - example found in API guide
  *
  * multiplies an input scalar times an input matrix and outputs a

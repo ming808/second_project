@@ -4,6 +4,7 @@
 
 /* show master
  * modify master
+ *modfy master without commit
  *
  * xtimesy.c - example found in API guide
  *

@@ -1,7 +1,7 @@
 #include "mex.h"
 #include <stdio.h>
 
-
+/* insert comments
 /*
  * xtimesy.c - example found in API guide
  *

@@ -9,6 +9,8 @@
  *
  *modify master under vm after branch
  *
+ *change in the hotfix branch
+ *
  * xtimesy.c - example found in API guide
  *
  * multiplies an input scalar times an input matrix and outputs a

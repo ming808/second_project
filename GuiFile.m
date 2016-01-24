@@ -251,9 +251,5 @@ pard.group_tdt.position=[8,3.5];
 pard.group_dt.object=struct('Style','edit','String','0');
 pard.group_dt.position=[8,4.5];
 pard.group_dt.Width=0.5;
+%for test change
 
- pard.syncParameters={{'filelist_long','filelist_long',{'String'}},...
-     {'file_saveoption','file_saveoption',{'String','Value','Visible'}}};
-pard.outputParameters= {'group_dx','group_dt'};
- pard.inputParameters={'mainfile'};
-end

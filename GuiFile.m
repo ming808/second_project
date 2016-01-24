@@ -1,6 +1,6 @@
 classdef GuiFile< interfaces.GuiModuleInterface & interfaces.LocDataInterface
     properties
-        autosavetimer
+      %  autosavetimer
         loaders
         savers
     end

@@ -1,7 +1,8 @@
 classdef GuiFile< interfaces.GuiModuleInterface & interfaces.LocDataInterface
     properties
-        autosavetimer
+      autosavetimer
         %test
+      %  autosavetimer
         loaders
         savers
     end
@@ -253,5 +254,9 @@ pard.group_dt.object=struct('Style','edit','String','0');
 pard.group_dt.position=[8,4.5];
 pard.group_dt.Width=0.5;
 %for test change
+<<<<<<< HEAD
 %change in branch iss53
 %finish iss53
+=======
+%change at the testing 2 branch
+>>>>>>> testing2

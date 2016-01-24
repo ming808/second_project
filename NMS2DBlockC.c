@@ -4,7 +4,10 @@
 
 /* show master
  * modify master
+ *
  *modfy master without commit
+ *
+ *modify master under vm after branch
  *
  * xtimesy.c - example found in API guide
  *
